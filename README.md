@@ -9,7 +9,5 @@ http://imzhai.com/apps
 
 博客地址：http://imzhai.com/
 
-E-mail：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=zhai.dongyan@foxmail.com" style="text-decoration:none;">zhai.dongyan@foxmail.com</a>，
-
 Gmail：<a href="mailto:zhaidyan@gmail.com">zhaidyan@gmail.com</a>
 
